@@ -1,5 +1,0 @@
-backtracking(appears very often)
-dynamic programming
-graphs (dfs, bfs, union find [usually asked as a follow up question to optimize a purely dfs/bfs approach], dijkstra)
-two pointers (very often)
-binary search (very very often)
